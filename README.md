@@ -17,19 +17,19 @@ Write coordinates in a tuple e.g (50.4500336, 30.5241361) and year as an int fro
 <h1>HTML tags</h1>
 <!DOCTYPE html> - an instruction to the web browser about what version of HTML the page is written in.
 
-<head> - a container for metadata.
+&lt;head&gt; - a container for metadata.
   
-<body> - defines the document's body
+&lt;body&gt; - defines the document's body
   
-<meta> - provides metadata about the HTML document
+&lt;meta&gt; - provides metadata about the HTML document
 
-<script> - used to define a client-side script (JavaScript)
+&lt;script&gt; - used to define a client-side script (JavaScript)
   
-<link> - allow users to click their way from page to page.
+&lt;link&gt; - allow users to click their way from page to page.
 
-<style> - used to define style information for an HTML document.
+&lt;style&gt; - used to define style information for an HTML document.
   
-<div> - defines a division or a section in an HTML document.
+&lt;div&gt; - defines a division or a section in an HTML document.
   
 <h1>Conclusion</h1>
 The program shows the closest film locations in the desired year and can be useful if you are wondering where to go.
