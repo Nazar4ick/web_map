@@ -34,4 +34,5 @@ Write coordinates in a tuple e.g (50.4500336, 30.5241361) and year as an int fro
 <h1>Conclusion</h1>
 The program shows the closest film locations in the desired year and can be useful if you are wondering where to go.
 <h1>Example</h1>
-For example look at the Map_example.jpg file. The input was: create_map((50.4500336, 30.5241361), 2006)
+For example look at the Map_example.jpg. The input was: create_map((50.4500336, 30.5241361), 2006)
+![Screenshot](https://raw.githubusercontent.com/Nazar4ick/web_map/master/Map_example.jpg)
