@@ -39,7 +39,7 @@ def get_coordinates(locs, coords):
     :param coords: tuple
     :return: list
     '''
-    maps = googlemaps.Client(key='AIzaSyAbj08RLqlA6urGvGaFFB84DdDcPa1a5c4')
+    maps = googlemaps.Client(key='AIzaSyAd3skpeldG352OyzjvBwzj_7p0AzUFB-k')
     locs = list(locs)
     for i in range(len(locs)):
         location = maps.geocode(locs[i])
